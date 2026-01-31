@@ -33,8 +33,5 @@ Built with scalability and security in mind, the platform supports role-based ac
 * Educational projects on financial systems
 * Credit risk modeling demonstrations
 
----
 
-
-and I’ll tailor it perfectly for your repo ✨
 
